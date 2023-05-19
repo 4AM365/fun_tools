@@ -1,0 +1,11 @@
+create a new repo:
+create in VS code
+open bash termina
+cd c/*/ 
+^ navigate to file directory
+git init -b main
+^ initializes 'git' repo in there
+git add .
+^ adds everything
+git commit -m "commit text"
+
